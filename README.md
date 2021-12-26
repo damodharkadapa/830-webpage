@@ -11,7 +11,6 @@ products:
 - AWS
 - EC2
 - git
----
 # HTML sample for Azure App Service
 
 This is a simple HTML/CSS/JS web app that can be deployed to Azure App Service using Git. 
